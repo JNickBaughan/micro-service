@@ -17,7 +17,7 @@ spec:
           image: jnickbaughan/auth
 ---
 apiVersion: v1
-kind: service
+kind: Service
 metadata:
   name: auth-srv
 spec:
